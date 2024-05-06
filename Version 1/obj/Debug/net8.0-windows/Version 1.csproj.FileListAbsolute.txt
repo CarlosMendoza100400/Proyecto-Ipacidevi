@@ -1,0 +1,19 @@
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\Version 1.exe
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\Version 1.deps.json
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\Version 1.runtimeconfig.json
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\Version 1.dll
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\Version 1.pdb
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version_1.Form1.resources
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.GenerateResource.cache
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.AssemblyInfoInputs.cache
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.AssemblyInfo.cs
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.CoreCompileInputs.cache
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.dll
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\refint\Version 1.dll
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.pdb
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.genruntimeconfig.cache
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\ref\Version 1.dll
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.AssemblyReference.cache
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.Up2Date

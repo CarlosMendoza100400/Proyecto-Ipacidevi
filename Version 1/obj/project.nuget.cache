@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TES0yo/Xguwtfs2KVr/Gt2lN2hWoepfoyuPdCkqw4kGUt/ezJ5uVnOBiM5iyTUxz9jBc3zgfLLv95vX3frnTvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Version 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\propietario\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}

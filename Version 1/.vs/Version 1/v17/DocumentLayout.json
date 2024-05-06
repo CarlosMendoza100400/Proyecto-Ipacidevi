@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantallaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantallaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaProfesor.cs",
+              "RelativeDocumentMoniker": "PantallaProfesor.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:48:55.732Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pantalla inicial.cs",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
+              "RelativeDocumentMoniker": "Pantalla inicial.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
+              "RelativeToolTip": "Pantalla inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:04:08.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pantalla inicial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
+              "RelativeDocumentMoniker": "Pantalla inicial.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantalla inicial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:57:06.927Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
