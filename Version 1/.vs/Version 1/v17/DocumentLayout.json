@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantallaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantallaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\revisionclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:revisionclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\revisionclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:revisionclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantallaclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantallaclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantallaclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantallaclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|c:\\users\\propietario\\onedrive\\documentos\\proyecto-ipacidevi\\version 1\\pantalla inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B2FE-3BB0-4B3A-A283-38592F27A3C7}|Version 1.csproj|solutionrelative:pantalla inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PantallaProfesor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaProfesor.cs",
-              "RelativeDocumentMoniker": "PantallaProfesor.cs",
-              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaProfesor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PantallaProfesor.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "PantallaClases.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaClases.cs",
+              "RelativeDocumentMoniker": "PantallaClases.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaClases.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaClases.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:48:55.732Z",
+              "WhenOpened": "2024-05-08T19:29:51.342Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pantalla inicial.cs",
-              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
-              "RelativeDocumentMoniker": "Pantalla inicial.cs",
-              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
-              "RelativeToolTip": "Pantalla inicial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:04:08.744Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,8 +61,72 @@
               "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs [Dise\u00F1o]",
               "RelativeToolTip": "Pantalla inicial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:57:06.927Z",
+              "WhenOpened": "2024-05-08T18:16:49.338Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevisionClase.cs",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\RevisionClase.cs",
+              "RelativeDocumentMoniker": "RevisionClase.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\RevisionClase.cs",
+              "RelativeToolTip": "RevisionClase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAxwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:13:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevisionClase.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\RevisionClase.cs",
+              "RelativeDocumentMoniker": "RevisionClase.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\RevisionClase.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RevisionClase.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:00:05.308Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pantalla inicial.cs",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
+              "RelativeDocumentMoniker": "Pantalla inicial.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.cs",
+              "RelativeToolTip": "Pantalla inicial.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAIwNAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:04:08.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PantallaClases.cs",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaClases.cs",
+              "RelativeDocumentMoniker": "PantallaClases.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\PantallaClases.cs",
+              "RelativeToolTip": "PantallaClases.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:43:11.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pantalla inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.Designer.cs",
+              "RelativeDocumentMoniker": "Pantalla inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\propietario\\OneDrive\\Documentos\\Proyecto-Ipacidevi\\Version 1\\Pantalla inicial.Designer.cs",
+              "RelativeToolTip": "Pantalla inicial.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA5wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:09:11.884Z",
+              "EditorCaption": ""
             }
           ]
         }

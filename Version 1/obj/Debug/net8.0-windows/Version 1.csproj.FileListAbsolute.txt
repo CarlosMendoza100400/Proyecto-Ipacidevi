@@ -17,3 +17,6 @@ C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\
 C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
 C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.AssemblyReference.cache
 C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.csproj.Up2Date
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version 1.sourcelink.json
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version_1.PantallaClases.resources
+C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1\obj\Debug\net8.0-windows\Version_1.RevisionClase.resources
