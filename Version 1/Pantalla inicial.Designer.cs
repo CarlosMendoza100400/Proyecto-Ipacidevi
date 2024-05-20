@@ -43,6 +43,8 @@
             crearClaseToolStripMenuItem = new ToolStripMenuItem();
             revisarClaseToolStripMenuItem = new ToolStripMenuItem();
             comboBox3 = new ToolStripComboBox();
+            textBox1 = new TextBox();
+            comboBox1 = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -75,13 +77,13 @@
             // 
             administrarGruposToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { añadirGrupoToolStripMenuItem, revisarEstadisticasToolStripMenuItem, añadirAlumnoToolStripMenuItem });
             administrarGruposToolStripMenuItem.Name = "administrarGruposToolStripMenuItem";
-            administrarGruposToolStripMenuItem.Size = new Size(180, 22);
+            administrarGruposToolStripMenuItem.Size = new Size(176, 22);
             administrarGruposToolStripMenuItem.Text = "Administrar grupos";
             // 
             // añadirGrupoToolStripMenuItem
             // 
             añadirGrupoToolStripMenuItem.Name = "añadirGrupoToolStripMenuItem";
-            añadirGrupoToolStripMenuItem.Size = new Size(180, 22);
+            añadirGrupoToolStripMenuItem.Size = new Size(174, 22);
             añadirGrupoToolStripMenuItem.Text = "Añadir grupo";
             añadirGrupoToolStripMenuItem.Click += añadirGrupoToolStripMenuItem_Click;
             // 
@@ -89,7 +91,7 @@
             // 
             revisarEstadisticasToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { listBoxContenido });
             revisarEstadisticasToolStripMenuItem.Name = "revisarEstadisticasToolStripMenuItem";
-            revisarEstadisticasToolStripMenuItem.Size = new Size(180, 22);
+            revisarEstadisticasToolStripMenuItem.Size = new Size(174, 22);
             revisarEstadisticasToolStripMenuItem.Text = "Revisar estadisticas";
             revisarEstadisticasToolStripMenuItem.DropDownOpened += revisarEstadisticasToolStripMenuItem_Click;
             revisarEstadisticasToolStripMenuItem.Click += revisarEstadisticasToolStripMenuItem_Click;
@@ -103,7 +105,7 @@
             // 
             añadirAlumnoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { comboboxcarpetas });
             añadirAlumnoToolStripMenuItem.Name = "añadirAlumnoToolStripMenuItem";
-            añadirAlumnoToolStripMenuItem.Size = new Size(180, 22);
+            añadirAlumnoToolStripMenuItem.Size = new Size(174, 22);
             añadirAlumnoToolStripMenuItem.Text = "Añadir alumno";
             añadirAlumnoToolStripMenuItem.DropDownOpened += revisarEstadisticasToolStripMenuItem_Click;
             // 
@@ -117,13 +119,13 @@
             // 
             administrarClasesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { crearClaseToolStripMenuItem, revisarClaseToolStripMenuItem });
             administrarClasesToolStripMenuItem.Name = "administrarClasesToolStripMenuItem";
-            administrarClasesToolStripMenuItem.Size = new Size(180, 22);
+            administrarClasesToolStripMenuItem.Size = new Size(176, 22);
             administrarClasesToolStripMenuItem.Text = "Administrar clases";
             // 
             // crearClaseToolStripMenuItem
             // 
             crearClaseToolStripMenuItem.Name = "crearClaseToolStripMenuItem";
-            crearClaseToolStripMenuItem.Size = new Size(180, 22);
+            crearClaseToolStripMenuItem.Size = new Size(140, 22);
             crearClaseToolStripMenuItem.Text = "Crear clase";
             crearClaseToolStripMenuItem.Click += crearClaseToolStripMenuItem_Click;
             // 
@@ -131,7 +133,7 @@
             // 
             revisarClaseToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { comboBox3 });
             revisarClaseToolStripMenuItem.Name = "revisarClaseToolStripMenuItem";
-            revisarClaseToolStripMenuItem.Size = new Size(180, 22);
+            revisarClaseToolStripMenuItem.Size = new Size(140, 22);
             revisarClaseToolStripMenuItem.Text = "Revisar clase";
             revisarClaseToolStripMenuItem.DropDownOpening += revisarEstadisticasToolStripMenuItem_Click;
             // 
@@ -141,11 +143,32 @@
             comboBox3.Size = new Size(121, 23);
             comboBox3.SelectedIndexChanged += comboBox3_SelectedIndexChanged;
             // 
+            // textBox1
+            // 
+            textBox1.AccessibleDescription = "Introduce tu nombre aqui";
+            textBox1.AccessibleName = "Nombre del alumno";
+            textBox1.AccessibleRole = AccessibleRole.None;
+            textBox1.Location = new Point(110, 397);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(228, 24);
+            textBox1.TabIndex = 2;
+            // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(472, 398);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(162, 23);
+            comboBox1.TabIndex = 3;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(comboBox1);
+            Controls.Add(textBox1);
             Controls.Add(pictureBox1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
@@ -174,5 +197,7 @@
         private ToolStripMenuItem añadirAlumnoToolStripMenuItem;
         private ToolStripComboBox comboboxcarpetas;
         private ToolStripComboBox comboBox3;
+        private TextBox textBox1;
+        private ComboBox comboBox1;
     }
 }
