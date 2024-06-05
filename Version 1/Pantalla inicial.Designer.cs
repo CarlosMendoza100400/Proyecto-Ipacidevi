@@ -44,7 +44,7 @@
             revisarClaseToolStripMenuItem = new ToolStripMenuItem();
             comboBox3 = new ToolStripComboBox();
             textBox1 = new TextBox();
-            comboBox1 = new ComboBox();
+            textBox2 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -154,20 +154,26 @@
             textBox1.Size = new Size(228, 24);
             textBox1.TabIndex = 2;
             // 
-            // comboBox1
+            // textBox2
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(472, 398);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(162, 23);
-            comboBox1.TabIndex = 3;
+            textBox2.AccessibleDescription = "Introduce tu nombre aqui";
+            textBox2.AccessibleName = "Nombre del alumno";
+            textBox2.AccessibleRole = AccessibleRole.None;
+            textBox2.Location = new Point(455, 397);
+            textBox2.Multiline = true;
+            textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
+            textBox2.Size = new Size(228, 24);
+            textBox2.TabIndex = 3;
             // 
             // Form1
             // 
+            AccessibleDescription = "";
+            AccessibleName = "Bienvenido al SPI";
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(comboBox1);
+            Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(pictureBox1);
             Controls.Add(menuStrip1);
@@ -198,6 +204,6 @@
         private ToolStripComboBox comboboxcarpetas;
         private ToolStripComboBox comboBox3;
         private TextBox textBox1;
-        private ComboBox comboBox1;
+        private TextBox textBox2;
     }
 }

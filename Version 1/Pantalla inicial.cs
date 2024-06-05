@@ -18,8 +18,16 @@ namespace Version_1
             InitializeComponent();
             LoadImages();
             timer = new System.Threading.Timer(Timer_Tick, null, 0, 5000); // Timer para cambiar la imagen cada 5 segundos
+            textBox1.KeyDown += NombreTextBox_KeyDown;
         }
 
+        private void NombreTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                BuscarCarpeta();
+            }
+        }
         private void LoadImages()
         {
             // Obtener la ruta de la carpeta de imágenes dentro del proyecto
@@ -210,6 +218,62 @@ namespace Version_1
             form3.Show();
         }
 
+
+
+        private void BuscarCarpeta()
+        {
+            string nombreCarpetaBuscada = textBox1.Text;
+
+            // Directorio raíz del programa
+            string directorioRaiz = @"C:\Users\propietario\OneDrive\Documentos\Proyecto-Ipacidevi\Version 1";
+
+            // Buscar recursivamente la carpeta
+            string carpetaEncontrada = BuscarCarpeta(nombreCarpetaBuscada, directorioRaiz);
+
+            if (!string.IsNullOrEmpty(carpetaEncontrada))
+            {
+                string textoDespuesDeGrupos = null;
+                int indiceGrupos = carpetaEncontrada.IndexOf("Grupos");
+
+                if (indiceGrupos != -1)
+                {
+                    // Obtiene la subcadena que viene después de "Grupos"
+                     textoDespuesDeGrupos = carpetaEncontrada.Substring(indiceGrupos + "Grupos".Length + 1);
+                }
+
+                textBox2.Text = textoDespuesDeGrupos;
+                //Avanzar a la pantalla de trabajo
+            }
+            else
+            {
+                MessageBox.Show("Carpeta no encontrada.");
+            }
+        }
+
+        private string BuscarCarpeta(string nombreCarpeta, string directorio)
+        {
+            // Buscar en el directorio actual
+            string[] carpetas = Directory.GetDirectories(directorio);
+            foreach (string carpeta in carpetas)
+            {
+                if (Path.GetFileName(carpeta).Equals(nombreCarpeta, StringComparison.OrdinalIgnoreCase))
+                {
+                    return directorio;
+                }
+            }
+
+            // Buscar en las subcarpetas
+            foreach (string carpeta in carpetas)
+            {
+                string carpetaEncontrada = BuscarCarpeta(nombreCarpeta, carpeta);
+                if (!string.IsNullOrEmpty(carpetaEncontrada))
+                {
+                    return carpetaEncontrada;
+                }
+            }
+
+            return null;
+        }
     }
 
 }
